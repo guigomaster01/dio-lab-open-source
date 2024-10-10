@@ -1,4 +1,9 @@
-# Rodrigo Ferreira Rodrigues
+<div style="display:flex; width: 100%; justify-content: flex-start">
+  <a href="https://git.io/typing-svg">
+ <p>👋</p>
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Rodrigo+Ferreira+Rodrigues;Seja+muito+bem+vindo!+:)" alt="Typing SVG" style="font-size: 150px" >
+  </a>
+</div>
 
 **Contato:**
 - **E-mail:** [contatorodrigorodrigues@gmail.com](mailto:contatorodrigorodrigues@gmail.com)
@@ -31,6 +36,6 @@ Sou um profissional com experiência em análise de sistemas, especializado no d
 - **Backend:** C# (em progresso)
 - **Databases:** MongoDB (em progresso)
 - **Frameworks:** React (em progresso)
-- **Plataformas:** Salesforce (em progresso)
+- **Plataformas:** Salesforce - Apex | Triggers| Flows | LWC (em progresso)
 - **Outros:** Python, APIs REST, Git/GitHub
 
